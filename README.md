@@ -4,7 +4,7 @@ Nathan M.K. Aw
 nathan.mk.aw@gmail.com
 
 # Abstract.
-At first glance, AI0Enabled Smart Contracts seems to be an oxymoron -- A smart contract is a set of promises, specified in digital form which necessitates that its behaviour/outcome is bounded based on input conditions. AI, however, connotes intelligent being like behaviour which is unbounded.  
+At first glance, AI-Enabled Smart Contracts seems to be an oxymoron -- A smart contract is a set of promises, specified in digital form which necessitates that its behaviour/outcome is bounded based on input conditions. AI, however, connotes intelligent being like behaviour which is unbounded.  
 
 This paper seeks to bridge the gap.  
 
