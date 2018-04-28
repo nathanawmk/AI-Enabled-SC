@@ -15,6 +15,8 @@ Note: This paper is not a rehash or extension of "Plasma: Scalable Autonomous Sm
 Ethereum is a transaction-based state machine. A valid state transition is one which comes about through a transaction. Formally:
 (1) σt+1 ≡ Υ(σt, T)
 
+We explore how this state transition process can be AI-Enabled. 
+
 Before one can explore how smart contracts be AI-enabled, one needs to first take a look at an ethereum-based smart contract written in solidity (https://www.ethereum.org/greeter):
 
 contract mortal {
